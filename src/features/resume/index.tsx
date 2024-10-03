@@ -200,8 +200,8 @@ export const Resume = () => {
             </ChapterTitle>
             <Description>
               <Text>今は、フルタイムの主夫をしています。</Text>
+              <Text>都市鳥とのふれあい、研究がライフワークです。</Text>
               <Text>野鳥の餌台と、新しいバードフィーダーの工作などの資金を自分で稼がなければいけなくなりました。</Text>
-              <Text>自分のライフスタイルに合った仕事を、探しています。</Text>
               <Text>仕事の依頼がありましたら、気軽にご連絡ください。</Text>
               <Text><a href="mailto:tomodadomot@gmail.com">tomodadomot@gmail.com</a></Text>
               <Text>なんとなしに、お話するだけでも、大歓迎ですよ。</Text>
